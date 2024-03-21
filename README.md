@@ -12,13 +12,12 @@ This repository contains a Decentralized Finance (DeFi) Token Staking Decentrali
 - **Reward Mechanism**: Users earn rewards for staking their tokens over a period.
 - **User Dashboard**: Provides a dashboard for users to track their staked amount, rewards earned, and other relevant information.
 - **Smart Contract**: Implements the staking logic using Solidity smart contracts.
-- **Frontend Interface**: Includes a user-friendly frontend interface built with [Framework/Lib Name].
+- **Frontend Interface**: Includes a user-friendly frontend interface built with Next.js.
 
 ## Technologies Used
 
 - **Blockchain Platform**: Ethereum
 - **Smart Contract Language**: Solidity
-- **Frontend Framework**: [Framework/Lib Name]
-- **Backend Framework**: [Framework/Lib Name]
-- **Database**: [Database Name]
-- **Deployment**: [Deployment Platform]
+- **Frontend Framework**: Next.js
+- **Backend Framework**: Nodejs
+
